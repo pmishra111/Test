@@ -1,0 +1,122 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0056F00000C4TtPQAV",
+      "createdByName": "prakhar mishra",
+      "createdDate": "2024-08-07T16:03:59.000Z",
+      "fileName": "triggers/ContactTrigger.trigger",
+      "fullName": "ContactTrigger",
+      "id": "01qIS00000008hkYAA",
+      "lastModifiedById": "0056F00000C4TtPQAV",
+      "lastModifiedByName": "prakhar mishra",
+      "lastModifiedDate": "2024-08-25T11:18:39.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0056F00000C4TtPQAV",
+      "createdByName": "prakhar mishra",
+      "createdDate": "2019-03-05T12:47:00.000Z",
+      "fileName": "triggers/trg_ToStop_noOfProducts.trigger",
+      "fullName": "trg_ToStop_noOfProducts",
+      "id": "01q6F000000te37QAA",
+      "lastModifiedById": "0056F00000C4TtPQAV",
+      "lastModifiedByName": "prakhar mishra",
+      "lastModifiedDate": "2019-03-06T09:00:04.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0056F00000C4TtPQAV",
+      "createdByName": "prakhar mishra",
+      "createdDate": "2019-01-22T19:55:39.000Z",
+      "fileName": "triggers/deleteContact.trigger",
+      "fullName": "deleteContact",
+      "id": "01q6F000000mewOQAQ",
+      "lastModifiedById": "0056F00000C4TtPQAV",
+      "lastModifiedByName": "prakhar mishra",
+      "lastModifiedDate": "2019-01-24T05:24:41.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0056F00000C4TtPQAV",
+      "createdByName": "prakhar mishra",
+      "createdDate": "2019-01-24T12:58:18.000Z",
+      "fileName": "triggers/mailToReg_Candidate.trigger",
+      "fullName": "mailToReg_Candidate",
+      "id": "01q6F000000mfT3QAI",
+      "lastModifiedById": "0056F00000C4TtPQAV",
+      "lastModifiedByName": "prakhar mishra",
+      "lastModifiedDate": "2019-01-25T07:34:34.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0056F00000C4TtPQAV",
+      "createdByName": "prakhar mishra",
+      "createdDate": "2019-01-24T10:56:00.000Z",
+      "fileName": "triggers/trgDeleteContact.trigger",
+      "fullName": "trgDeleteContact",
+      "id": "01q6F000000mfRMQAY",
+      "lastModifiedById": "0056F00000C4TtPQAV",
+      "lastModifiedByName": "prakhar mishra",
+      "lastModifiedDate": "2019-01-25T07:34:44.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0056F00000C4TtPQAV",
+      "createdByName": "prakhar mishra",
+      "createdDate": "2019-01-18T10:59:01.000Z",
+      "fileName": "triggers/ClosedOpportunityTrigger.trigger",
+      "fullName": "ClosedOpportunityTrigger",
+      "id": "01q6F000000meE2QAI",
+      "lastModifiedById": "0056F00000C4TtPQAV",
+      "lastModifiedByName": "prakhar mishra",
+      "lastModifiedDate": "2019-01-23T05:43:22.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0056F00000C4TtPQAV",
+      "createdByName": "prakhar mishra",
+      "createdDate": "2019-01-27T19:12:55.000Z",
+      "fileName": "triggers/trgAppointment.trigger",
+      "fullName": "trgAppointment",
+      "id": "01q6F000000mftkQAA",
+      "lastModifiedById": "0056F00000C4TtPQAV",
+      "lastModifiedByName": "prakhar mishra",
+      "lastModifiedDate": "2019-01-28T09:38:36.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0056F00000C4TtPQAV",
+      "createdByName": "prakhar mishra",
+      "createdDate": "2019-04-22T06:43:07.000Z",
+      "fileName": "triggers/CaseTrigger.trigger",
+      "fullName": "CaseTrigger",
+      "id": "01q6F000001d3idQAA",
+      "lastModifiedById": "0056F00000C4TtPQAV",
+      "lastModifiedByName": "prakhar mishra",
+      "lastModifiedDate": "2019-04-22T06:53:08.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    },
+    {
+      "createdById": "0056F00000C4TtPQAV",
+      "createdByName": "prakhar mishra",
+      "createdDate": "2024-08-07T13:03:18.000Z",
+      "fileName": "triggers/AccountTrigger.trigger",
+      "fullName": "AccountTrigger",
+      "id": "01qIS00000008hfYAA",
+      "lastModifiedById": "0056F00000C4TtPQAV",
+      "lastModifiedByName": "prakhar mishra",
+      "lastModifiedDate": "2024-08-09T19:23:39.000Z",
+      "manageableState": "unmanaged",
+      "type": "ApexTrigger"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+/*The Apex class must be called StringArrayTest and be in the public scope
+The Apex class must have a public static method called generateStringArray
+The generateStringArray method must return an array (or list) of strings
+The method must accept an incoming Integer as a parameter, which will be used to determine the number of returned strings
+The method must return a string value in the format Test n where n is the index of the current string in the array
+*/
+public class StringArrayTest {
+
+    public static List<String> generateStringArray(Integer n ){
+        
+       List<String> ls= new  List<String>();
+        for(Integer i=0;i<n;i++)
+        {
+            ls.add('Test '+i);
+        }
+        return ls;
+    }
+}
